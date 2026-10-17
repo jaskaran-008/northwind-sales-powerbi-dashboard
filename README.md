@@ -9,19 +9,19 @@ A 5-page Power BI report built from 16,282 orders ($448.47M revenue, Jul 2012 â€
 ## Report pages
 
 ### 1. Revenue and Sales Performance
-![Revenue and Sales Performance](screenshots/page1_revenue_sales_performance.png)
+![Revenue and Sales Performance](page1_revenue_sales_performance.png)
 
 ### 2. Geographic and Regional Trends
-![Geographic and Regional Trends](screenshots/page2_geographic_regional_trends.png)
+![Geographic and Regional Trends](page2_geographic_regional_trends.png)
 
 ### 3. Stakeholder Engagement Insights
-![Stakeholder Engagement Insights](screenshots/page3_stakeholder_engagement.png)
+![Stakeholder Engagement Insights](page3_stakeholder_engagement.png)
 
 ### 4. Inventory and Product Intelligence
-![Inventory and Product Intelligence](screenshots/page4_inventory_product_intelligence.png)
+![Inventory and Product Intelligence](page4_inventory_product_intelligence.png)
 
 ### 5. Executive Summary and Key Insights
-![Executive Summary and Key Insights](screenshots/page5_executive_summary.png)
+![Executive Summary and Key Insights](page5_executive_summary.png)
 
 ## Key insights
 - **Markets are concentrated:** USA, Germany, France, Brazil and UK generate 56.8% of revenue.
