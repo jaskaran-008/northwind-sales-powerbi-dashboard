@@ -74,6 +74,4 @@ RETURN
 ## Tools
 Power BI Desktop · DAX · Data modeling · Data storytelling
 
-## Notes
-- Data is a Northwind-style sample dataset used for learning.
-- Data ends on 28 Oct 2023, so Q4 2023 is a partial quarter.
+
